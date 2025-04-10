@@ -1,4 +1,4 @@
-# 🧠 Pokétwo CAPTCHA Solving Service by Zardo
+# 🧠 Pokétwo CAPTCHA Solvers
 
 Welcome to the most efficient and privacy-focused CAPTCHA solving service designed specifically for **Pokétwo**.  
 Say goodbye to endless manual CAPTCHA entries and let our system handle it for you with speed, security, and reliability.
